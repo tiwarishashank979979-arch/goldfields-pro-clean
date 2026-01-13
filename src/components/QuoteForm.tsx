@@ -60,7 +60,7 @@ export default function QuoteForm() {
           Get Your Free Quote
         </h2>
         <p className="mt-4 text-lg text-slate-600 dark:text-slate-400">
-          Fill out the form below and we'll get back to you as soon as possible.
+          Fill out the form below and we&apos;ll get back to you as soon as possible.
         </p>
         <div className="mx-auto mt-4 h-1 w-24 rounded-full bg-gradient-to-r from-primary to-accent" />
       </div>

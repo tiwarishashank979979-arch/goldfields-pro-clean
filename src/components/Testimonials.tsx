@@ -50,7 +50,7 @@ export default function Testimonials() {
                 </span>
               ))}
             </div>
-            <p className="mb-4 text-sm leading-relaxed text-slate-700 dark:text-slate-300">"{testimonial.text}"</p>
+            <p className="mb-4 text-sm leading-relaxed text-slate-700 dark:text-slate-300">&quot;{testimonial.text}&quot;</p>
             <div className="border-t border-slate-100 pt-4 dark:border-slate-700">
               <p className="font-semibold text-slate-900 dark:text-slate-100">{testimonial.name}</p>
               <p className="text-xs text-slate-500 dark:text-slate-400">{testimonial.location}</p>
